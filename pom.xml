@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.nit</groupId>
-  <artifactId>paytm-web-application-Development</artifactId>
-  <version>1.0.1</version>
+  <artifactId>maven-web-application-master</artifactId>
+  <version>2.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>maven-web-application-master Maven Webapp</name>
